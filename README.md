@@ -71,7 +71,7 @@ You can also visit the [ML4W Discord Server](https://discord.gg/c4fJK7Za3g) to s
 
 ## Wallpaper repository
 
-You can find my wallpaper collection in the repository https://github.com/Daniel120116/wallpapers-ML4W
+You can find my wallpaper collection in the repository https://github.com/Daniel120116/wallpaper-ML4W
 ## Inspirations
 
 The following projects have inspired me:
